@@ -46,7 +46,7 @@
     <script>
 
     let stocks = []
-    fetch('/stocks.json')
+    fetch('./stocks.json')
     .then(res => res.json())
     .then((out) => {
       stocks = out;
