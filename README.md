@@ -15,3 +15,6 @@ Running './grabStocks.sh' will grab a list of all the current stocks.
 
 * Add continuous testing to check that every PR has the latest stocks.
 * Make offline friendly (through Progressive web app)
+
+## Forks
+🇷🇺 [Russian fork](https://github.com/empenoso/MOEX-Random-Picker) with MOEX stocks
