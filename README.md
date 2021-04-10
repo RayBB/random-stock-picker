@@ -17,4 +17,5 @@ Running './grabStocks.sh' will grab a list of all the current stocks.
 * Make offline friendly (through Progressive web app)
 
 ## Forks
-🇷🇺 [Russian fork](https://github.com/empenoso/MOEX-Random-Picker) with MOEX stocks
+- 🇷🇺 [Russian fork](https://github.com/empenoso/MOEX-Random-Picker) with MOEX stocks
+- [Orca App fork](https://github.com/aflugge/orca-random-stock-picker)
