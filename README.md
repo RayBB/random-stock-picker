@@ -9,7 +9,7 @@ Website was built using bootstrap and vanilla JavaScript.
 
 ## Updating stock list
 
-Running './grabStocks.sh' will grab a list of all the current stocks.
+Running `python grabStocks.py` will grab a list of all the current stocks.
 
 ## Todo
 
