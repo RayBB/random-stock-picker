@@ -63,7 +63,6 @@
     .catch(err => { throw err });
     
       let curStock = "";
-      newStock();
       document.querySelector("#yahoo").addEventListener('click', () => gtag('event', 'Yahoo', { 'event_category': 'Open', 'event_label': curStock, }));
       document.querySelector("#robinhood").addEventListener('click', () => gtag('event', 'Robinhood', { 'event_category': 'Open', 'event_label': curStock, }));
       document.querySelector("#refresh").addEventListener('click', () => gtag('event', 'refresh', { 'event_category': 'Stock', 'event_label': curStock, }));
